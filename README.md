@@ -1,5 +1,5 @@
 # PymatgenUsage
-A collection of python codes which simplies the usage of pymatgen packages.
+A collection of python codes which simply the usage of pymatgen packages.
 
 function lists:  
 >"gen_all()": generate .cif files  
